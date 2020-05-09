@@ -1,0 +1,83 @@
+.formContainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0 auto;
+}
+h2
+{
+    text-align: center;
+    font-family: Georgia, 'kartika-gras', sans-serif;
+}
+form
+{
+    flex-basis: 70vh;
+    padding: 2em;
+    background: #fff;
+    box-shadow: 0 0 2em rgba(0, 0, 0, 0.2);
+    border-radius: 0.25em;
+}
+input
+{
+    padding: 0.5em;
+    font-size: 0.875em;
+    background: #f4f4f4;
+    border: 1px solid #ccc;
+    border-width: 1px 1px 1px 0;
+    border-radius: 0;
+}
+input:focus
+{
+    background: #fff;
+    box-shadow: inset 0.1em 0.1em 0.25em rgba(0, 0, 0, 0.2);
+    outline: 0;
+}
+.formField
+{
+    margin-bottom: 1em;
+    display: flex;
+}
+.formField label
+{
+    flex: 0 1 4em;
+    padding: 1em;
+    background: #fff;
+    border: 1px solid #ccc;
+    font-size: 0.75em;
+    text-align: center;
+    text-shadow: 0 1px 0 #fff;
+    line-height: 1;
+    border-radius: 0.25em 0 0 0.25em;
+}
+.formField input
+{
+    flex-grow: 1;
+}
+.inputRight input, .multiInput input:last-child
+{
+    border-radius: 0 0.25em 0 0.25em;
+}
+.submitField
+{
+    flex-direction: row;
+    justify-content: center;
+}
+input[type="submit"]
+{
+    flex: 0 1 40%;
+    padding: 0.8em;
+    font-size: 1.2rem;
+    text-shadow: 0 1px 0 #fff;
+    background: #689CD2;
+    border-radius: 0.25em;
+    border: 0;
+    transition: 0.3s;
+    cursor: pointer;
+    color: #fff;
+}
+input[type="submit"]:hover
+{
+    background: #F11A36;
+}
