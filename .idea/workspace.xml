@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dedbb6e-3813-46ca-940c-8a41d7ebe79e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1atzTIW7xq1nNBcFyzVY5Ju9K7Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/webservices/webdata/habitue" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dedbb6e-3813-46ca-940c-8a41d7ebe79e" name="Default Changelist" comment="" />
+      <created>1587569683802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587569683802</updated>
+      <workItem from="1587569685176" duration="4531000" />
+      <workItem from="1587725128443" duration="688000" />
+      <workItem from="1587734240265" duration="3492000" />
+      <workItem from="1587751161426" duration="1031000" />
+      <workItem from="1587792818772" duration="10447000" />
+      <workItem from="1587809537474" duration="7924000" />
+      <workItem from="1587878490260" duration="7417000" />
+      <workItem from="1587890711411" duration="2920000" />
+      <workItem from="1587909367731" duration="833000" />
+      <workItem from="1587911119935" duration="32000" />
+      <workItem from="1589024587488" duration="241000" />
+    </task>
+    <task id="LOCAL-00001" summary="Sketch of function for calc dir size added">
+      <created>1587752631255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587752631255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sketch of function for calc dir size added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sketch of function for calc dir size added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="0" key="#PHP" timestamp="1587570211507">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1587570211507" />
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1587752630058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587752630058" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1587911150294">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587911150294" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1587575606223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1587575606223" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589024587547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589024587547" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1587795168466">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1587795168466" />
+  </component>
+</project>

@@ -1,2 +1,2 @@
-# PHP_CATALOG_3
- BSUIR PHP lab №3 "Catalog checker"
+# PHP_FILE_SYSTEM_3
+ PHP laboratory work №3
